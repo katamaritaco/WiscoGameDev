@@ -13,9 +13,13 @@ If you'd like to add to this repository, you can do so in the following ways:
 2. You don't have a github account
   * Join the [Madison Game Dev Slack](https://madisongamedev.slack.com/messages/gamedev/) and request your change there.
 
+### Groups
+[MADISON INDIES GROUP](https://www.facebook.com/groups/madisonindies/)
+
+[MADISON VR GROUP](http://www.meetup.com/Madison-VR/)
+
 
 ### Studio Directory
-
 [CREATIVE KINGDOMS](http://www.creativekingdoms.com/)
 
 [FILAMENT GAMES](https://www.filamentgames.com/)
@@ -30,10 +34,6 @@ If you'd like to add to this repository, you can do so in the following ways:
 
 [LEARNING GAMES NETWORK](http://learninggamesnetwork.org/)
 
-[MADISON INDIES GROUP](https://www.facebook.com/groups/madisonindies/)
-
-[MADISON VR GROUP](http://www.meetup.com/Madison-VR/)
-
 [PERBLUE](http://www.perblue.com/)
 
 [POLY CULTURE](http://www.polyculture.co/)
@@ -47,3 +47,8 @@ If you'd like to add to this repository, you can do so in the following ways:
 [THREE RINGS DESIGN](http://www.threerings.net/)
 
 [ZYMO ENTERTAINMENT](http://www.zymoent.com/)
+
+
+### School Game Programs
+[UW-Stout: B.S. Degree in Game Design and Development – Computer Science](http://www.uwstout.edu/programs/bsgdd/)
+[UW-Stout: B.F.A Degree in Game Design and Development - Art](http://www.uwstout.edu/programs/bfagdd/)
