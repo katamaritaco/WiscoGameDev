@@ -1,6 +1,8 @@
 # WiscoGameDev
 Community driven repository for all resources pertaining to Game Dev in WI.
 
+
+
 ### How to contribute
 If you'd like to add to this repository, you can do so in the following ways:
 
@@ -14,34 +16,34 @@ If you'd like to add to this repository, you can do so in the following ways:
 
 ### Studio Directory
 
-CREATIVE KINGDOMS
+[CREATIVE KINGDOMS](http://www.creativekingdoms.com/)
 
-FILAMENT GAMES
+[FILAMENT GAMES](https://www.filamentgames.com/)
 
-FLIPPFLY
+[FLIPPFLY](http://flippfly.com/)
 
-GLS STUDIOS
+[GLS STUDIOS](http://www.glsstudios.com/)
 
-GUILD SOFTWARE
+[GUILD SOFTWARE](http://www.guildsoftware.com/)
 
-HUMAN HEAD STUDIOS
+[HUMAN HEAD STUDIOS](http://www.humanhead.com/)
 
-LEARNING GAMES NETWORK
+[LEARNING GAMES NETWORK](http://learninggamesnetwork.org/)
 
-MADISON INDIES GROUP
+[MADISON INDIES GROUP](https://www.facebook.com/groups/madisonindies/)
 
-MADISON VR GROUP
+[MADISON VR GROUP](http://www.meetup.com/Madison-VR/)
 
-PERBLUE
+[PERBLUE](http://www.perblue.com/)
 
-POLY CULTURE
+[POLY CULTURE](http://www.polyculture.co/)
 
-RAVEN SOFTWARE
+[RAVEN SOFTWARE](http://www.ravensoftware.com/)
 
-SKY SHIP STUDIOS
+[SKY SHIP STUDIOS](http://www.skyshipstudios.com/)
 
-THAWED CODEBASE
+[THAWED CODEBASE](http://www.thawedcodebase.com/)
 
-THREE RINGS DESIGN
+[THREE RINGS DESIGN](http://www.threerings.net/)
 
-ZYMO ENTERTAINMENT
+[ZYMO ENTERTAINMENT](http://www.zymoent.com/)
