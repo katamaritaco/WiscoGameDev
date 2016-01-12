@@ -25,33 +25,33 @@ If you'd like to add to this repository, you can do so in the following ways:
 [Madison Game Alliance](http://madisongamealliance.com/index.html)
 
 ### Studios
-[CREATIVE KINGDOMS](http://www.creativekingdoms.com/)
+[Creative Kingdoms](http://www.creativekingdoms.com/)
 
-[FILAMENT GAMES](https://www.filamentgames.com/)
+[Filament Games](https://www.filamentgames.com/)
 
-[FLIPPFLY](http://flippfly.com/)
+[Flippfly](http://flippfly.com/)
 
-[GLS STUDIOS](http://www.glsstudios.com/)
+[GLS Studios](http://www.glsstudios.com/)
 
-[GUILD SOFTWARE](http://www.guildsoftware.com/)
+[Guild Software](http://www.guildsoftware.com/)
 
-[HUMAN HEAD STUDIOS](http://www.humanhead.com/)
+[Human Head Studios](http://www.humanhead.com/)
 
-[LEARNING GAMES NETWORK](http://learninggamesnetwork.org/)
+[Learning Games Network](http://learninggamesnetwork.org/)
 
-[PERBLUE](http://www.perblue.com/)
+[Perblue](http://www.perblue.com/)
 
-[POLY CULTURE](http://www.polyculture.co/)
+[Poly Culture](http://www.polyculture.co/)
 
-[RAVEN SOFTWARE](http://www.ravensoftware.com/)
+[Raven Software](http://www.ravensoftware.com/)
 
-[SKY SHIP STUDIOS](http://www.skyshipstudios.com/)
+[Sky Ship Studios](http://www.skyshipstudios.com/)
 
-[THAWED CODEBASE](http://www.thawedcodebase.com/)
+[Thawed Codebase](http://www.thawedcodebase.com/)
 
-[THREE RINGS DESIGN](http://www.threerings.net/)
+[Three Rings Design](http://www.threerings.net/)
 
-[ZYMO ENTERTAINMENT](http://www.zymoent.com/)
+[Zymo Entertainment](http://www.zymoent.com/)
 
 
 ### School Programs
