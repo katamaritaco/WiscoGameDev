@@ -1,7 +1,9 @@
 # WiscoGameDev
-Community driven repository for all resources pertaining to Game Dev in WI.
-
-
+Community driven repository for all resources pertaining to Game Dev in Wisconsin.
+- [How to contribute](#how-to-contribute)
+- [Groups](#groups)
+- [Studios](#studios)
+- [School Programs](#school-programs)
 
 ### How to contribute
 If you'd like to add to this repository, you can do so in the following ways:
@@ -14,12 +16,15 @@ If you'd like to add to this repository, you can do so in the following ways:
   * Join the [Madison Game Dev Slack](https://madisongamedev.slack.com/messages/gamedev/) and request your change there.
 
 ### Groups
-[MADISON INDIES GROUP](https://www.facebook.com/groups/madisonindies/)
+[Madison Developer's Slack](https://madisongamedev.slack.com/messages/gamedev/)
 
-[MADISON VR GROUP](http://www.meetup.com/Madison-VR/)
+[Madison Indies Group](https://www.facebook.com/groups/madisonindies/)
 
+[Madison VR Group](http://www.meetup.com/Madison-VR/)
 
-### Studio Directory
+[Madison Game Alliance](http://madisongamealliance.com/index.html)
+
+### Studios
 [CREATIVE KINGDOMS](http://www.creativekingdoms.com/)
 
 [FILAMENT GAMES](https://www.filamentgames.com/)
@@ -49,6 +54,6 @@ If you'd like to add to this repository, you can do so in the following ways:
 [ZYMO ENTERTAINMENT](http://www.zymoent.com/)
 
 
-### School Game Programs
+### School Programs
 * UW-Stout: [B.S. Degree in Game Design and Development – Computer Science](http://www.uwstout.edu/programs/bsgdd/)
 * UW-Stout: [B.F.A Degree in Game Design and Development - Art](http://www.uwstout.edu/programs/bfagdd/)
