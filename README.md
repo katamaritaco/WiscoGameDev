@@ -24,8 +24,11 @@ If you'd like to add to this repository, you can do so in the following ways:
 
 [Madison Game Alliance](http://madisongamealliance.com/index.html)
 
+
 ### Studios
 [Creative Kingdoms](http://www.creativekingdoms.com/)
+
+[Field Day Labs](http://wid.wisc.edu/research/fielddaylab/)
 
 [Filament Games](https://www.filamentgames.com/)
 
