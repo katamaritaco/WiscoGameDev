@@ -50,5 +50,5 @@ If you'd like to add to this repository, you can do so in the following ways:
 
 
 ### School Game Programs
-[UW-Stout: B.S. Degree in Game Design and Development – Computer Science](http://www.uwstout.edu/programs/bsgdd/)
-[UW-Stout: B.F.A Degree in Game Design and Development - Art](http://www.uwstout.edu/programs/bfagdd/)
+* UW-Stout: [B.S. Degree in Game Design and Development – Computer Science](http://www.uwstout.edu/programs/bsgdd/)
+* UW-Stout: [B.F.A Degree in Game Design and Development - Art](http://www.uwstout.edu/programs/bfagdd/)
