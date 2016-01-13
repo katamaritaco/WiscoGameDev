@@ -20,13 +20,13 @@ If you'd like to add to this repository, you can do so in the following ways:
   - Join the [Madison Game Dev Slack](https://madisongamedev.slack.com/messages/gamedev/) and request your change there.
 
 ### Groups
-[Madison Developer's Slack](https://madisongamedev.slack.com/messages/gamedev/)
+- [Madison Developer's Slack](https://madisongamedev.slack.com/messages/gamedev/)
 
-[Madison Indies Group](https://www.facebook.com/groups/madisonindies/)
+- [Madison Indies Group](https://www.facebook.com/groups/madisonindies/)
 
-[Madison VR Group](http://www.meetup.com/Madison-VR/)
+- [Madison VR Group](http://www.meetup.com/Madison-VR/)
 
-[Madison Game Alliance](http://madisongamealliance.com/index.html)
+- [Madison Game Alliance](http://madisongamealliance.com/index.html)
 
 
 ### Studios
