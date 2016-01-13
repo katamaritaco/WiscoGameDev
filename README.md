@@ -3,6 +3,7 @@ Community driven repository for all resources pertaining to Game Dev in Wisconsi
 - [Introduction](#introduction)
 - [How to contribute](#how-to-contribute)
 - [Groups](#groups)
+- [Publishers](#publishers)
 - [Studios](#studios)
 - [School Programs](#school-programs)
 
@@ -21,49 +22,32 @@ If you'd like to add to this repository, you can do so in the following ways:
 
 ### Groups
 - [Eau Claire Game Developers](http://ecgamedevs.tumblr.com/)
-
 - [Madison Developer's Slack](https://madisongamedev.slack.com/messages/gamedev/)
-
+- [Madison Game Alliance](http://madisongamealliance.com/index.html)
+- [Madison Game Design Cabal](http://www.meetup.com/madcabal/)
 - [Madison Indies Group](https://www.facebook.com/groups/madisonindies/)
-
 - [Madison VR Group](http://www.meetup.com/Madison-VR/)
 
-- [Madison Game Alliance](http://madisongamealliance.com/index.html)
-
+### Publishers
+- [The Game Crafter](https://www.thegamecrafter.com/)
 
 ### Studios
 - [Creative Kingdoms](http://www.creativekingdoms.com/)
-
 - [Field Day Labs](http://wid.wisc.edu/research/fielddaylab/)
-
 - [Filament Games](https://www.filamentgames.com/)
-
 - [Flippfly](http://flippfly.com/)
-
 - [GLS Studios](http://www.glsstudios.com/)
-
 - [Guild Software](http://www.guildsoftware.com/)
-
 - [Human Head Studios](http://www.humanhead.com/)
-
 - [Learning Games Network](http://learninggamesnetwork.org/)
-
 - [Perblue](http://www.perblue.com/)
-
 - [Poly Culture](http://www.polyculture.co/)
-
 - [Potato Interactive](http://rottentater.com/)
-
 - [Raven Software](http://www.ravensoftware.com/)
-
 - [Sky Ship Studios](http://www.skyshipstudios.com/)
-
 - [Studio Tectorum](http://www.studiotectorum.com)
-
 - [Thawed Codebase](http://www.thawedcodebase.com/)
-
 - [Three Rings Design](http://www.threerings.net/)
-
 - [Zymo Entertainment](http://www.zymoent.com/)
 
 
