@@ -20,6 +20,8 @@ If you'd like to add to this repository, you can do so in the following ways:
   - Join the [Madison Game Dev Slack](https://madisongamedev.slack.com/messages/gamedev/) and request your change there.
 
 ### Groups
+- [Eau Claire Game Developers](http://ecgamedevs.tumblr.com/)
+
 - [Madison Developer's Slack](https://madisongamedev.slack.com/messages/gamedev/)
 
 - [Madison Indies Group](https://www.facebook.com/groups/madisonindies/)
@@ -50,9 +52,13 @@ If you'd like to add to this repository, you can do so in the following ways:
 
 - [Poly Culture](http://www.polyculture.co/)
 
+- [Potato Interactive](http://rottentater.com/)
+
 - [Raven Software](http://www.ravensoftware.com/)
 
 - [Sky Ship Studios](http://www.skyshipstudios.com/)
+
+- [Studio Tectorum](http://www.studiotectorum.com)
 
 - [Thawed Codebase](http://www.thawedcodebase.com/)
 
