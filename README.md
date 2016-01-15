@@ -29,6 +29,7 @@ If you'd like to add to this repository, you can do so in the following ways:
 - [Madison Game Design Cabal](http://www.meetup.com/madcabal/)
 - [Madison Indies Group](https://www.facebook.com/groups/madisonindies/)
 - [Madison VR Group](http://www.meetup.com/Madison-VR/)
+- [UW Stout IGDA](https://www.facebook.com/uwstoutigda)
 
 
 ### Publishers
