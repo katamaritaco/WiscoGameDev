@@ -65,6 +65,9 @@ Key: :round_pushpin: Studio Location; :video_game: Notable Games (Try to limit t
 - [Perblue](http://www.perblue.com/)
   - :round_pushpin: Madison
   - :video_game: Parallel Kingdoms, Greed for Glory
+- [Phildo Games](http://phildogames.com/)
+  - :round_pushpin: Madison
+  - :video_game: Game Design Machine, Monologue
 - [Poly Culture](http://www.polyculture.co/)
   - :round_pushpin: Madison
   - :video_game: Prune
