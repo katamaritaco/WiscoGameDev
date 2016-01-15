@@ -36,7 +36,8 @@ If you'd like to add to this repository, you can do so in the following ways:
 
 
 ### Studios
-Key: :round_pushpin: Studio Location; :video_game: Notable Games (Try to limit this at 3 max)
+
+Key: :round_pushpin: Studio Location; :video_game: Notable Games (Try to limit this at 3 max); Only 'current' studios please.
 
 - [Creative Kingdoms](http://www.creativekingdoms.com/)
   - :round_pushpin: Madison
