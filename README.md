@@ -1,5 +1,14 @@
 # WiscoGameDev
 Community driven repository for all resources pertaining to Game Dev in Wisconsin.
+
+
+### Introduction
+Game development has a decades long history in Wisconsin. The scene here exists in many forms: Educational, Indie, and AAA. This resource is meant to be a crowdsourced repository of information, usable for anybody in order to gather resources about game development in Wisconsin.
+
+If you have a suggestion, no matter how big or small, please [contribute](CONTRIBUTING.md)!
+
+
+### Table of Contents
 - [Introduction](#introduction)
 - [How to contribute](#how-to-contribute)
 - [Groups](#groups)
@@ -7,12 +16,9 @@ Community driven repository for all resources pertaining to Game Dev in Wisconsi
 - [Studios](#studios)
 - [School Programs](#school-programs)
 
-### Introduction
-Game development has a decades long history in Wisconsin. The scene here exists in many forms: Educational, Indie, and AAA. Here are resources to everything related to game development in Wisconsin. If you have a suggestion, please contribute!
-
 
 ### How to contribute
-This resources thrives on the input of the community. 
+This resources thrives on the input of the community!
 
 If you'd like to add something to this resource, please look through our [contribution file](CONTRIBUTING.md) on how to do so.
 
