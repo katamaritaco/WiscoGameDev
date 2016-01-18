@@ -1,9 +1,9 @@
 # WiscoGameDev
-Community driven repository for all resources pertaining to Game Dev in Wisconsin.
+Community driven repository for all resources pertaining to Game Development in Wisconsin.
 
 
 ### Introduction
-Game development has a decades long history in Wisconsin. The scene here exists in many forms: Educational, Indie, and AAA. This resource is meant to be a crowdsourced repository of information, usable for anybody in order to gather resources about game development in Wisconsin.
+Game development has a decades long history in Wisconsin. The scene here exists in many forms: Educational, Indie, and AAA. This resource is meant to be a crowdsourced repository of information, usable for anybody in order to gather resources about game development in Wisconsin. All games are welcome: digital, physical, and :alien:!
 
 If you have a suggestion, no matter how big or small, please [contribute](CONTRIBUTING.md)!
 
@@ -11,16 +11,28 @@ If you have a suggestion, no matter how big or small, please [contribute](CONTRI
 ### Table of Contents
 - [Introduction](#introduction)
 - [How to contribute](#how-to-contribute)
+- [Events](#events)
 - [Groups](#groups)
 - [Publishers](#publishers)
 - [Studios](#studios)
 - [School Programs](#school-programs)
 
 
-### How to contribute
+### How To Contribute
 This resources thrives on the input of the community!
 
 If you'd like to add something to this resource, please look through our [contribution file](CONTRIBUTING.md) on how to do so.
+
+
+### Events
+
+Key: :round_pushpin: Event Location
+
+These are some of the larger events that occur in the area. For smaller meetup groups/events, check the [groups section](#groups)
+- [Games and Learning Society Conference](http://glsconference.org/)
+  - :round_pushpin: Madison
+- [Midwest Gaming Classic](https://www.midwestgamingclassic.com/)
+  - :round_pushpin: Milwaukee
 
 
 ### Groups
@@ -30,6 +42,7 @@ If you'd like to add something to this resource, please look through our [contri
 - [Madison Game Design Cabal](http://www.meetup.com/madcabal/)
 - [Madison Indies Group](https://www.facebook.com/groups/madisonindies/)
 - [Madison VR Group](http://www.meetup.com/Madison-VR/)
+- [UW Madison Badger Game Network](https://www.facebook.com/groups/badgergamenetwork/)
 - [UW Stout IGDA](https://www.facebook.com/uwstoutigda)
 
 
