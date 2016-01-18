@@ -109,8 +109,11 @@ Key: :round_pushpin: Studio Location; :video_game: Notable Games (Try to limit t
 
 
 ### School Programs
-- Madison College: [Associate of Arts Degree in Animation and Concept Development](http://madisoncollege.edu/program-info/animation)
-- Madison Media Institute: [Game Art & Animation Program](http://www.mediainstitute.edu/video-game-design-school-madison)
-- UW-Stout: [B.S. Degree in Game Design and Development – Computer Science](http://www.uwstout.edu/programs/bsgdd/)
-- UW-Stout: [B.F.A Degree in Game Design and Development - Art](http://www.uwstout.edu/programs/bfagdd/)
-- UW-Whitewater: [Media Arts And Game Development](http://www.uww.edu/cac/magd)
+
+Key: :art: Art/Animation; :computer: Software Development
+
+- Madison College: [Associate of Arts Degree in Animation and Concept Development](http://madisoncollege.edu/program-info/animation) :art:
+- Madison Media Institute: [Game Art & Animation Program](http://www.mediainstitute.edu/video-game-design-school-madison) :art:
+- UW-Stout: [B.S. Degree in Game Design and Development – Computer Science](http://www.uwstout.edu/programs/bsgdd/) :computer:
+- UW-Stout: [B.F.A Degree in Game Design and Development - Art](http://www.uwstout.edu/programs/bfagdd/) :art:
+- UW-Whitewater: [Media Arts And Game Development](http://www.uww.edu/cac/magd) :art:
