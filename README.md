@@ -3,7 +3,9 @@ Community driven repository for all resources pertaining to Game Development in 
 
 
 ### Introduction
-Game development has a decades long history in Wisconsin. The scene here exists in many forms: Educational, Indie, and AAA. This resource is meant to be a crowdsourced repository of information, usable for anybody in order to gather resources about game development in Wisconsin. All games are welcome: digital, physical, and :alien:!
+Game development has a decades long history in Wisconsin. The scene here exists in many forms: Educational, Indie, Analog, Digital, VR, AAA, and (probably?) more. This resource is meant to be a crowdsourced repository of information, usable for anybody in order to gather resources about game development in Wisconsin. 
+
+All games are welcome: digital, physical, and :alien:!
 
 If you have a suggestion, no matter how big or small, please [contribute](CONTRIBUTING.md)!
 
