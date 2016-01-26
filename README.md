@@ -15,7 +15,7 @@ If you have a suggestion, no matter how big or small, please [contribute](CONTRI
 - [Groups](#groups)
 - [Publishers](#publishers)
 - [Studios](#studios)
-- [School Programs](#school-programs)
+- [School Programs](#school-programs-and-groups)
 
 
 ### How To Contribute
@@ -109,12 +109,13 @@ Key: :round_pushpin: Studio Location; :video_game: Notable Games (Try to limit t
   - :video_game: Starlight Inception
 
 
-### School Programs
+### School Programs and Groups
 
 Key: :art: Art/Animation; :computer: Software Development
 
 - Madison College: [Associate of Arts Degree in Animation and Concept Development](http://madisoncollege.edu/program-info/animation) :art:
 - Madison Media Institute: [Game Art & Animation Program](http://www.mediainstitute.edu/video-game-design-school-madison) :art:
+- UW-Madison: [Games and Learning Society](http://www.gameslearningsociety.org/)
 - UW-Stout: [B.S. Degree in Game Design and Development – Computer Science](http://www.uwstout.edu/programs/bsgdd/) :computer:
 - UW-Stout: [B.F.A Degree in Game Design and Development - Art](http://www.uwstout.edu/programs/bfagdd/) :art:
 - UW-Whitewater: [Media Arts And Game Development](http://www.uww.edu/cac/magd) :art:
