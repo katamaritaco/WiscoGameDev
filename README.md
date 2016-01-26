@@ -44,7 +44,7 @@ These are some of the larger events that occur in the area. For smaller meetup g
 - [Madison Game Design Cabal](http://www.meetup.com/madcabal/)
 - [Madison Indies Group](https://www.facebook.com/groups/madisonindies/)
 - [Madison VR Group](http://www.meetup.com/Madison-VR/)
-- [MSOE IGDA](https://www.facebook.com/MSOEGameDevClub/)
+- [MSOE Game Development Club and IGDA](https://www.facebook.com/MSOEGameDevClub/)
 - [UW Madison Badger Game Network](https://www.facebook.com/groups/badgergamenetwork/)
 - [UW Stout IGDA](https://www.facebook.com/uwstoutigda)
 
