@@ -124,8 +124,8 @@ Key: :art: Art/Animation; :computer: Software Development; :apple: Research
 - UW-Stout: [B.S. Degree in Game Design and Development – Computer Science](http://www.uwstout.edu/programs/bsgdd/) :computer:
 - UW-Stout: [B.F.A Degree in Game Design and Development - Art](http://www.uwstout.edu/programs/bfagdd/) :art:
 - UW-Whitewater: [Media Arts And Game Development](http://www.uww.edu/cac/magd) :art:
-- Milwaukee Area Technical College: [Computer Simulation and Gaming - Design](http://www.matc.edu/media_creative_arts/degrees/computer-simulation-gaming.cfm) :design:
+- Milwaukee Area Technical College: [Computer Simulation and Gaming - Design](http://www.matc.edu/media_creative_arts/degrees/computer-simulation-gaming.cfm) :computer:
 - Milwaukee Area Technical College: [Computer Simulation and Gaming - Art & Animation](http://www.matc.edu/media_creative_arts/degrees/computer-simulation-gaming.cfm) :art:
 - Milwaukee Area Technical College: [Computer Simulation and Gaming - Programming](http://www.matc.edu/media_creative_arts/degrees/computer-simulation-gaming.cfm) :computer:
-- Milwaukee Area Technical College: [Computer Simulation and Gaming - Business Development](http://www.matc.edu/media_creative_arts/degrees/computer-simulation-gaming.cfm) :business:
+- Milwaukee Area Technical College: [Computer Simulation and Gaming - Business Development](http://www.matc.edu/media_creative_arts/degrees/computer-simulation-gaming.cfm) :apple:
 - Milwaukee Area Technical College: [Unity Developer Technical Diploma](http://www.matc.edu/media_creative_arts/diplomas/unity-developer.cfm) :computer:
