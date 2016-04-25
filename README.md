@@ -68,7 +68,7 @@ Key: :round_pushpin: Studio Location; :video_game: Notable Games (Try to limit t
   - :video_game: Reach For the Sun, Crazy Plant Shop
 - [Flippfly](http://flippfly.com/)
   - :round_pushpin: Madison
-  - :video_game: Race The Sun
+  - :video_game: Race The Sun, Hexarden, Absolute Drift: Zen Edition
 - [Forever Interactive](http://foreverinteractive.com/)
   - :round_pushpin: Milwaukee
   - :video_game: Visions of Zosimos, Battle Gnomes, Infernal World
